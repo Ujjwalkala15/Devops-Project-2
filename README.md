@@ -38,7 +38,7 @@ pip install yagmail boto3
 
 ```
 Project 2/
-├── log_archive_tool_2nd_script.py
+├── log_archive_tool.py
 ├── README.md
 ├── archives/                # Optional: stores compressed logs
 └── logs/                    # Source log files
